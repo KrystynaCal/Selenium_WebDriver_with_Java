@@ -55,7 +55,7 @@ public class FirstTest {
 //        WebElement result = driver.findElement(By.xpath("/html/body/div[7]/div/div[10]/div[1]/div[2]/div[2]/div/div/div[1]/div/div/div/div[1]/div/a/div/cite"));
 //        Assert.assertTrue(result.isDisplayed());
 
-
+//kij
     }
 }
 

@@ -20,5 +20,6 @@ public class WebDriverManagerTest {
         executor.executeScript("alert('Hello')");
         driver.get("https://www.google.com");
 
+
     }
 }
